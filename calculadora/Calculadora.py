@@ -73,7 +73,7 @@ def calculadora():
                 potenciacao()
     except ValueError:
         print('Digite apenas números.')
-    nova_operacao()
+        nova_operacao()
 
 
 def nova_operacao():
